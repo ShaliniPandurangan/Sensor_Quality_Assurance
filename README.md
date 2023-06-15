@@ -15,3 +15,8 @@ This repository contains the code that has been used to assure the quality of th
 
 ## Static data analysis 
 
+This section analyses the data sampled when the sensor is places static without movements. 
+
+Experiment settings parameters include:
+
+IMU sampling rate
